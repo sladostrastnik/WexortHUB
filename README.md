@@ -1,6 +1,9 @@
 # 👁️ Status Update 04.10.2025
 Wexort is officially not a script for Fling Things and People anymore. There's other project called [Tokra Script](https://github.com/sladostrastnik/TokraScript) that currently replaces Wexort forever. Developers aren't planning to remake Wexort once again and make it work due to it's irreparable incompatibilities and malfunctions. Thanks for everything <3
-
+  
+  
+  
+  
 
 # Wexort
 **Wexort** — project made by **Sladostrastnik** and **4art** and inspired by **gabescripts**. It was supossed to be script hub for some games on **Roblox**, but at the time of release it was working only in **Fling Things and People** by **Horomori**. In result it became the biggest and strongest script hub. It's development took almost 1 year and was discontinued 2 times.
